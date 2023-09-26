@@ -1,1 +1,3 @@
 # Sales-Prediction-and-Model-Complexity-Management
+
+In this project, experimented an in-depth analysis to predict sales based on marketing spend, employing various regression techniques. Explored linear regression for a basic understanding, polynomial regression to capture nonlinear relationships, and ridge regression to manage model complexity and prevent overfitting. The goal was to strike a balance between bias and variance to create a robust sales prediction model. This project enhanced regression modeling skills and demonstrated the importance of regularization in achieving reliable predictions for real-world business applications.
